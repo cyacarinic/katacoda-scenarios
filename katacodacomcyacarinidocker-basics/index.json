@@ -24,7 +24,8 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+      "uilayout": "editor-terminal",
+      "uisettings": "python"
   },
   "backend": {
     "imageid": "docker"
